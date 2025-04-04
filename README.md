@@ -9,9 +9,6 @@ This page provides information and answers to common questions you might have. I
 **Q: I found a bug in the app. What should I do?**
 A: We're always working to improve Crazy Dares! Please send a detailed description of the bug, including the steps to reproduce it, to our support email address below. The more information you provide, the quicker we can fix it.
 
-**Q: I have a suggestion for a new dare or feature. Can I share it?**
-A: Absolutely! We love hearing your ideas. Please send your suggestions to our support email address. We appreciate your input in making Crazy Dares even better.
-
 **Q: The app is crashing. What can I do?**
 A: If the app is crashing, please try the following steps:
 1. **Close and restart the app:** Sometimes a simple restart can resolve temporary issues.
@@ -26,7 +23,7 @@ If the crashing continues after trying these steps, please contact us with detai
 A: While we aim for clarity in our dares, if you have a question about a specific one, please feel free to reach out with the exact wording of the dare, and we'll do our best to clarify it for you.
 
 **Q: Is my data private?**
-A: We take your privacy seriously. Please refer to our [Link to your Privacy Policy here - if you have one] for detailed information on how we handle your data.
+A: Yes, we do not collect any type of data.
 
 **Q: The app is not working as expected. What should I do?**
 A: Please describe the issue you are experiencing in as much detail as possible and send it to our support email address. Include information like:
